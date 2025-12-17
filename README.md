@@ -39,7 +39,7 @@ Me chamo Gustavo Henrique Silva, tenho 23 anos e sou natural do São Paulo. Conc
 
 ### 🤖 Linguagens e Tecnologias
 
-**<img **
+**`<img
     align="left" 
     alt="HTML"
     title="HTML" 
@@ -47,6 +47,7 @@ Me chamo Gustavo Henrique Silva, tenho 23 anos e sou natural do São Paulo. Conc
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
+`**
 
 <img 
     align="left" 
