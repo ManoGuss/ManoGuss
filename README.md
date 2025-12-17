@@ -1,4 +1,4 @@
-# 👩💻 Gustavo Silva
+# 💻 Gustavo Silva
 
 **`Desenvolvedora FullStack`**
 
