@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Unreal Engine Blueprint`**
 
-Me chamo Gustavo Henrique Silva, tenho 23 anos e sou natural do São Paulo. Concluí o ensino superior em Análise e Desenvolvimento de Sistemas. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[GutsDev](https://www.youtube.com/@gutsdevv)", onde ensino a criar projetos utilizando Blueprints na Unreal Engine, e também através do Instagram, com o perfil chamado "[Dev em Dev](https://www.instagram.com/gustavhpng/)".
+Me chamo Gustavo Henrique Silva, tenho 23 anos e sou natural do São Paulo. Concluí o ensino superior em Análise e Desenvolvimento de Sistemas. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[GutsDev](https://www.youtube.com/@gutsdevv)", onde ensino a criar projetos utilizando Blueprints na Unreal Engine, e também através do Instagram, com o perfil chamado "[Gustavhpng](https://www.instagram.com/gustavhpng/)".
 
 <p align="left">
     <a href="https://www.youtube.com/@gutsdevv?sub_confirmation=1">
