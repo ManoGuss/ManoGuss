@@ -8,8 +8,8 @@ My name is Gustavo Henrique Silva, I am 23 years old and I am from São Paulo. I
     <a href="https://www.youtube.com/@gutsdevv?sub_confirmation=1">
         <img 
             alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="[https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCnhuDsEPzAU8gKOg3j1zqeg]?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
+            title="Inscreva-se" 
+            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCnhuDsEPzAU8gKOg3j1zqeg?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
     </a>
     <a href="https://www.youtube.com/@gutsdevv">
