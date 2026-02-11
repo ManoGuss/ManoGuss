@@ -16,7 +16,7 @@ My name is Gustavo Henrique Silva, I am 23 years old and I am from São Paulo. I
         <img 
             alt="youtube views" 
             title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCnhuDsEPzAU8gKOg3j1zqeg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
+            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCnhuDsEPzAU8gKOg3j1zqeg?color=%23E05D45&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
         />
     </a> 
     <a href="https://github.com/ManoGuss?tab=repositories&sort=stargazers">
