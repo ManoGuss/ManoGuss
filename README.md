@@ -57,6 +57,15 @@ My name is Gustavo Henrique Silva, I am 23 years old and I am from São Paulo. I
     src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/unrealengine/unrealengine-original.svg"
 />
 
+<img 
+    align="left" 
+    alt="Unity - C#" 
+    title="Unity - C#"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg"
+/>
+
 <br/>
 <br/>
 
