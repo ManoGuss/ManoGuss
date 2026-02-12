@@ -2,7 +2,7 @@
 
 **`Game Developer`**
 
-My name is Gustavo Henrique Silva, I am 23 years old and I am from São Paulo. I completed my higher education in Systems Analysis and Development. I am passionate about technology and I share my knowledge through my YouTube channel: "[GutsDev](https://www.youtube.com/@gutsdevv)", where I teach how to create projects using Blueprints in Unreal Engine, and share a bit about my daily routine on Instagram, through my profile: "[Gustavhpng](https://www.instagram.com/gustavhpng/)".
+My name is Gustavo Henrique Silva, I am 23 years old and I am from São Paulo, Brasil. I have a degree in Systems Analysis and Development. I am passionate about technology and I share my knowledge through my YouTube channel: "[GutsDev](https://www.youtube.com/@gutsdevv)", where I teach how to create projects using C# in Unity and using Blueprints in Unreal Engine, and share a bit about my daily routine on Instagram, through my profile: "[Gustavhpng](https://www.instagram.com/gustavhpng/)".
 
 <p align="left">
     <a href="https://www.youtube.com/@gutsdevv?sub_confirmation=1">
