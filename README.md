@@ -54,7 +54,7 @@ My name is Gustavo Henrique Silva, I am 23 years old and I am from São Paulo, B
     title="Unreal Engine - Blueprint"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/unrealengine/unrealengine-original.svg"
+    src="https://user-images.githubusercontent.com/12417677/97433592-a9e07800-1915-11eb-8f0b-f4e8cdf8babb.png"
 />
 
 <img 
