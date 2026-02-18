@@ -38,7 +38,7 @@
 <br />
 
 ### 🎮 Portfolio de Games!
-<p align="center">
+<p align="left">
   <a href= "https://manogus.itch.io/" target="_blank">
   <img src="https://img.icons8.com/?size=100&id=XrWrgAx9pAYM&format=png&color=000000" />
   <br />
