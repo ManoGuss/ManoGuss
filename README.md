@@ -37,7 +37,9 @@
 
 <br />
 
+### 🎮 Portfolio de Games!
 <p align="center">
-  <img src="https://manogus.itch.io/&color=ffb6c1&style=flat-square&label=Portfolio+de+GameDev" />
+  <a href= "https://manogus.itch.io/" target="_blank">
+  <img src="https://img.icons8.com/?size=100&id=XrWrgAx9pAYM&format=png&color=000000" />
   <br />
 </p>
