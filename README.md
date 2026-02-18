@@ -20,7 +20,7 @@
   <img src="https://skillicons.dev/icons?i=cs,py,unity,unreal,visualstudio,github&perline=8" />
 </p>
 
-> **Nota:** Meus repositórios são focados em **Blueprint**, onde aplico conceitos de Game Development e Arquitetura.
+> **Nota:** Meus repositórios são focados em **Blueprint**, onde aplico conceitos de Game Development e Arquitetura de código, para uma estrutura com o máximo de praticidade.
 
 ---
 
