@@ -1,90 +1,43 @@
-# 💻 Gustavo Silva
-
-**`Game Developer`**
-
-My name is Gustavo Henrique Silva, I am 23 years old and I am from São Paulo, Brasil. I have a degree in Systems Analysis and Development. I am passionate about technology and games, I share my knowledge through my [Linkedin](https://www.linkedin.com/in/manogus/) and my Youtube Channel: [GutsDev](https://www.youtube.com/@gutsdevv), where I learn and share how to create projects using C# in Unity and using Blueprints in Unreal Engine.
-
-<p align="left">
-    <a href="https://www.youtube.com/@gutsdevv?sub_confirmation=1">
-        <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCnhuDsEPzAU8gKOg3j1zqeg?color=%23E05D45&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a>
-    <a href="https://www.youtube.com/@gutsdevv">
-        <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCnhuDsEPzAU8gKOg3j1zqeg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-        />
-    </a> 
-    <a href="https://github.com/ManoGuss?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/ManoGuss?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/ManoGuss?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/ManoGuss?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+# Olá, eu sou o Gustavo Henrique Silva 👋
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🚀 Unreal Game Developer
+*Transformando ideias em mundos vivos!*
 
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+---
 
-<img 
-    align="left" 
-    alt="Unreal Engine - Blueprint" 
-    title="Unreal Engine - Blueprint"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://user-images.githubusercontent.com/12417677/97433592-a9e07800-1915-11eb-8f0b-f4e8cdf8babb.png"
-/>
+### 😁 Sobre Mim
+- 🎮 **Atuação:** Desenvolvedor com foco em Games (Blueprint | Unreal Engine).
+- 🎓 **Formação:** Análise e desenvolvimento de sistemas.
+- 🎯 **Especialidade:** Lógica de programação em **Blueprint**, os fluxogramas de trabalho da Unreal.
+- 🎨 **Interesses:** Gosto de me envolver com o projeto que estou trabalhando desde o princípio da ideia, até a finalização, vendo a obra ganhar vida!
 
-<img 
-    align="left" 
-    alt="Unity - C#" 
-    title="Unity - C#"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg"
-/>
+---
 
-<br/>
-<br/>
+### 🛠️ Minhas Tecnologias
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,py,unity,unreal,visualstudio,github&perline=8" />
+</p>
 
-### 📊 Estatísticas
+> **Nota:** Meus repositórios são focados em **Blueprint**, onde aplico conceitos de Game Development e Arquitetura.
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=ManoGuss&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+---
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManoGuss&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+### 📫 Vamos conversar?
+<p align="left">
+  <a href="https://www.linkedin.com/in/manogus" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  &nbsp;
+  <a href="mailto:gmanogus@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
 
+<br />
+
+<p align="center">
+  <img src="https://manogus.itch.io/&color=ffb6c1&style=flat-square&label=Portfolio+de+GameDev" />
+  <br />
 </p>
