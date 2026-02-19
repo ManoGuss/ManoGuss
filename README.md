@@ -2,15 +2,15 @@
 
 ---
 
-### 🚀 Unreal/Unity Game Developer
+### 🚀 Game Developer | Web Developer | Full-stack Junior
 *Transformando ideias em mundos vivos!*
 
 ---
 
 ### 😁 Sobre Mim
-- 🎮 **Atuação:** Desenvolvedor com foco em Games (Unity - C# | Blueprint - Unreal Engine).
+- 🎮 **Atuação:** Desenvolvedor com foco em Web e Games (C#, Unity, Unreal, HTML, JavaScript, Python).
 - 🎓 **Formação:** Análise e desenvolvimento de sistemas.
-- 🎯 **Especialidade:** Lógica de programação em **C# | Blueprint (C++)**.
+- 🎯 **Especialidade:** Lógica de programação em **| C# | Blueprint (C++) | HTML | Python |**.
 - 🎨 **Interesses:** Gosto de me envolver com o projeto que estou trabalhando desde o princípio da ideia, até a finalização, vendo a obra ganhar vida!
 
 ---
