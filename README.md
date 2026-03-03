@@ -1,31 +1,39 @@
-# Olá, eu sou o Gustavo Henrique Silva 👋
+# Hello, I'm Gustavo Henrique Silva 👋
 
 ---
 
 ### 🚀 Unity & Unreal Gameplay Systems Developer
-### 💻 Specialized in progression systems and gamification
-*Transformando ideias em mundos vivos!*
+*Transforming ideas into living worlds!*
 
 ---
 
-### 😁 Sobre Mim
-- 🎮 **Atuação:** Desenvolvedor de sistemas de Gameplay, progressão e gamificação (C#, Unity, Unreal Engine Blueprint).
-- 🎓 **Formação:** Análise e desenvolvimento de sistemas.
-- 🎯 **Especialidade:** Gamificação e desenvolvimento de sistemas de jogos, utilizando? **| C# | Blueprint (C++) |**.
-- 🎨 **Interesses:** Gosto de me envolver com o projeto que estou trabalhando desde o princípio da ideia, até a finalização, vendo a obra ganhar vida!
+### 😁 About Me
+- 🎮 **Role:** Developer of gameplay, progression, and gamification systems (C#, Unity, Unreal Engine Blueprint).
+- 🎓 **Graduation:** Systems analysis and development.
+- 🎯 **Specialty:** Gamification and Game System Development using: **| C# e Blueprint |**.
+- 🎨 **Interests:** I like to be involved with the project I'm working on from the initial idea to the final product, seeing the work come to life!
 
 ---
 
-### 🛠️ Minhas Tecnologias
+### 🛠️ Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cs,py,unity,unreal,visualstudio,git,github,html,javascript,cpp&perline=8" />
 </p>
 
-> **Nota:** Meus repositórios são focados em **C# e Blueprint (C++)**, onde aplico conceitos de Game Development, Arquitetura de código, sistemas de gameplay, sistemas de progressão e gamificação aplicada, para uma estrutura com o máximo de praticidade e eficiência.
+> **Note:** My repositories focus on **Unity | Unreal Engine 5 | C# | Blueprint | Git | OOP**, where I apply concepts of Game Development, Code Architecture, gameplay systems, progression systems, and applied gamification, to create a structure with maximum practicality and efficiency.
 
 ---
 
-### 📫 Vamos conversar?
+## 🚩 Core Skills
+- Gameplay Systems Architecture
+- Progression Systems
+- Multiplayer Foundations
+- Gamification Design
+- Object-Oriented Programming
+
+---
+
+### 📫 Let's talk?
 <p align="left">
   <a href="https://www.linkedin.com/in/manogus" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
@@ -38,7 +46,7 @@
 
 <br />
 
-### 🎮 Portfolio de Games!
+### 🎮 Games Portfolio!
 <p align="left">
   <a href= "https://manogus.itch.io/" target="_blank">
   <img src="https://img.icons8.com/?size=100&id=XrWrgAx9pAYM&format=png&color=000000" />
