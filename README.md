@@ -9,9 +9,9 @@
 ---
 
 ### 😁 Sobre Mim
-- 🎮 **Atuação:** Desenvolvedor com foco em Web e Games (C#, Unity, Unreal, HTML, JavaScript, Python).
+- 🎮 **Atuação:** Desenvolvedor de sistemas de Gameplay, progressão e gamificação (C#, Unity, Unreal Engine Blueprint).
 - 🎓 **Formação:** Análise e desenvolvimento de sistemas.
-- 🎯 **Especialidade:** Lógica de programação em **| C# | Blueprint (C++) | HTML | Python |**.
+- 🎯 **Especialidade:** Gamificação e desenvolvimento de sistemas de jogos, utilizando? **| C# | Blueprint (C++) |**.
 - 🎨 **Interesses:** Gosto de me envolver com o projeto que estou trabalhando desde o princípio da ideia, até a finalização, vendo a obra ganhar vida!
 
 ---
@@ -21,7 +21,7 @@
   <img src="https://skillicons.dev/icons?i=cs,py,unity,unreal,visualstudio,git,github,html,javascript,cpp&perline=8" />
 </p>
 
-> **Nota:** Meus repositórios são focados em **C# e Blueprint (C++)**, onde aplico conceitos de Game Development e Arquitetura de código, para uma estrutura com o máximo de praticidade e eficiência.
+> **Nota:** Meus repositórios são focados em **C# e Blueprint (C++)**, onde aplico conceitos de Game Development, Arquitetura de código, sistemas de gameplay, sistemas de progressão e gamificação aplicada, para uma estrutura com o máximo de praticidade e eficiência.
 
 ---
 
