@@ -3,7 +3,7 @@
 ---
 
 ### 🚀 Unity & Unreal Gameplay Systems Developer
-### Specialized in progression systems and gamification
+### 💻 Specialized in progression systems and gamification
 *Transformando ideias em mundos vivos!*
 
 ---
