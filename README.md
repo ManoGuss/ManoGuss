@@ -2,7 +2,7 @@
 
 ---
 
-### 🚀 Game Developer | Web Developer | Full-stack Junior
+### 🚀 Game Developer | Web Developer | Full-stack
 *Transformando ideias em mundos vivos!*
 
 ---
