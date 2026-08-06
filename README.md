@@ -17,7 +17,7 @@
 
 ### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,py,unity,unreal,visualstudio,git,github,html,javascript,cpp&perline=8" />
+  <img src="https://skillicons.dev/icons?i=cs,py,unity,unreal,visualstudio,git,github,html,javascript,cpp,css,typescript&perline=8" />
 </p>
 
 > **Note:** My repositories focus on **Unity | Unreal Engine 5 | C# | Blueprint | Git | OOP**, where I apply concepts of Game Development, Code Architecture, gameplay systems, progression systems, and applied gamification, to create a structure with maximum practicality and efficiency.
